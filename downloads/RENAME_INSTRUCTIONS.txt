@@ -1,0 +1,18 @@
+📝 IMPORTANT: Please rename your PDF file
+
+Current filename: "30 Day Challenge.pdf"
+New filename needed: "30-Day-Challenge.pdf"
+
+Why the change?
+- Spaces in filenames can cause issues on GitHub Pages
+- Hyphens are more web-friendly
+- This will fix the "file not found" error
+
+Steps:
+1. Rename "30 Day Challenge.pdf" to "30-Day-Challenge.pdf"
+2. Keep it in this same folder (public/downloads/)
+3. Delete this instruction file
+4. Run: npm run build
+5. Deploy the new dist folder
+
+The download will then work perfectly on GitHub Pages!
